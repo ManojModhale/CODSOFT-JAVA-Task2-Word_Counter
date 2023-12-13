@@ -1,5 +1,6 @@
 # CODSOFT-JAVA-Task2-Word_Counter
 To Understand this repository Please read "READMe.md" file.
+this is eclipse Java Project Structure,so Java files are in src folder.<br>
 
 In this repository, I have posted task-2 that I completed during my internship at "CodSoft".  <br>
 
